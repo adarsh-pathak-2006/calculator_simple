@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(189, 164, 164);
+}
+#container{
+    margin-top: 50px;
+    height: 500px;
+    width: 452px;
+    border: 3px black solid;
+    background-color: #355872;
+}
+#f{
+    display: flex;
+    flex-direction: column;
+    margin-left: 3px;
+}
+#screen{
+    margin-top: 5px;
+    width: 440px;
+    height: 100px;
+    border: 2px white solid;
+    background-color: #72736f;
+    font-size: 80px;
+    font-weight: 500;
+    text-align: right;
+}
+#numpad{
+    margin-top: 5px;
+    height: 380px;
+    width: 340px;
+}
+table{
+    height: 380px;
+    width: 340px;
+}
+button{
+    width: 107px;
+    height: 70.5px;
+    font-size: x-large;
+    font-weight: 500;
+    background-color: #7AAACE;
+}
+#enter{
+    width: 214.5px;
+    height: 70.5px;
+}
+#bcks{
+    width: 214.5px;
+    height: 70.5px; 
+}
